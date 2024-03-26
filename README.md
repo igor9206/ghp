@@ -10,6 +10,8 @@ Android разработчик
 
 
 ## **Проекты**
+[Seal](https://github.com/igor9206/Seal) - Приложение для установления целей (Pet-project)
+
 [NeWork](https://github.com/igor9206/NeWork) - Социальная сеть (дипломный проект)
 
 
