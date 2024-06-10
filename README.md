@@ -12,7 +12,7 @@ Android разработчик
 ## **Проекты**
 [IT_CRON](https://github.com/igor9206/IT-CRON) - Информационное приложение компании IT CRON
 
-[Test_It_Cron](https://github.com/igor9206/test-it-cron) - Тестовое задание для отбора на стажиировку
+[Test_It_Cron](https://github.com/igor9206/test-it-cron) - Тестовое задание для отбора на стажировку
 
 [Seal](https://github.com/igor9206/Seal) - Приложение для установления целей (Pet-project)
 
